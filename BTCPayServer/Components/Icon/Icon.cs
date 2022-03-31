@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace BTCPayServer.Components.Icon
+namespace Q-pesa.Components.Icon
 {
     public class Icon : ViewComponent
     {
